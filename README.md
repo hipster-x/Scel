@@ -8,7 +8,7 @@
 
 2 На первой виртуальной машине скачем rsyslog
 
-![Desktop Screenshot 2024 09 11 - 18 31 06 06](https://github.com/user-attachments/assets/0c917571-2159-4f42-babc-7fef5869328d)
+![Desktop Screenshot 2024 09 11 - 18 30 32 61](https://github.com/user-attachments/assets/558a706d-9d84-43c2-b1f8-9c774f328ba0)
 
 3 Запустим сервис. Проверим работоспособность
 
