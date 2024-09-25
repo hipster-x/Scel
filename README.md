@@ -3,7 +3,7 @@
 # Отчет по практической работе №1
 
 <details>
-  <summary>Нажмите, чтобы развернуть</summary>
+  <summary style="font-size: 20px;">Нажмите, чтобы развернуть</summary>
 
 ## Rsyslog. Сервер
 
