@@ -2,6 +2,9 @@
  
 # Отчет по практической работе №1
 
+<details>
+  <summary>Нажми, чтобы раскрыть</summary>
+
 ## Rsyslog. Сервер
 
 1 На виртуальных машинах настроил сеть на Сетевой мост 
@@ -85,4 +88,7 @@
 
 
 ![282038871-a0d81d91-8f7c-4d86-92be-7f218db82319](https://github.com/user-attachments/assets/93ef0dee-e959-4269-84d5-cb741e7f52da)
+
+</details>
+
 
