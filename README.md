@@ -98,4 +98,6 @@
  
 https://colab.research.google.com/drive/1i-UAwV851rVhOP3LJ6zvfTDJJMig8LkN?usp=sharing
 
+https://github.com/hipster-x/Scel/blob/main/PR2_sssl.ipynb
+
 </details>
