@@ -93,6 +93,9 @@
 
 ## Отчет по практической работе №2
 
-
-
+<details>
+  <summary>Нажмите, чтобы развернуть</summary>
+ 
 https://colab.research.google.com/drive/1i-UAwV851rVhOP3LJ6zvfTDJJMig8LkN?usp=sharing
+
+</details>
