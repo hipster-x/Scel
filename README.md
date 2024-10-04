@@ -92,3 +92,7 @@
 </details>
 
 ## Отчет по практической работе №2
+
+
+
+https://colab.research.google.com/drive/1i-UAwV851rVhOP3LJ6zvfTDJJMig8LkN?usp=sharing
