@@ -36,7 +36,7 @@
 
 3 Перезапускаем сервис
 
-![Desktop Screenshot 2024 09 11 - 18 35 58 05](https://github.com/user-attachments/assets/4961aa2a-d855-462e-a93d-c871cee2a636)
+![Desktop Screenshot 2024 09 11 - 18 36 30 76](https://github.com/user-attachments/assets/70a45ee8-fa3a-4307-ab95-f8bf7c2a093d)
 
 ## LOKI
 
@@ -84,10 +84,11 @@
 
 4 Наблюдаем логи в SigNoz
 
-![282038909-fa95370f-048c-453b-952f-75c1b361047f](https://github.com/user-attachments/assets/dd17ab60-f507-4922-95f5-9a6012383d3c)
+![Desktop Screenshot 2024 09 25 - 14 47 51 25](https://github.com/user-attachments/assets/311b9120-8f8c-488a-ba86-327b782560b3)
 
 
-![282038871-a0d81d91-8f7c-4d86-92be-7f218db82319](https://github.com/user-attachments/assets/93ef0dee-e959-4269-84d5-cb741e7f52da)
+![Desktop Screenshot 2024 09 25 - 14 47 51 26](https://github.com/user-attachments/assets/ac96cf69-1261-40eb-bfcd-d35065074a5c)
+
 
 </details>
 
