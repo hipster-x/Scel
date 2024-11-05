@@ -170,5 +170,9 @@ https://github.com/hipster-x/Scel/blob/main/PR2_sssl.ipynb
 
 Проверка работы настроенных механизмов
 
+SQL injection
+
+![Desktop Screenshot 2024 11 05 - 21 59 22 15](https://github.com/user-attachments/assets/6a2871de-a09f-4951-b0ef-1a2ccc75933e)
+
 
   </details>
