@@ -156,7 +156,7 @@ https://github.com/hipster-x/Scel/blob/main/PR2_sssl.ipynb
 
 ![Desktop Screenshot 2024 11 05 - 11 05 31 89](https://github.com/user-attachments/assets/c2eff684-47ca-40ef-a731-241c28e33292)
 
-Настройка выявлений уязвимостей в соответсвии с документацией
+Настройка выявлений уязвимостей в соответствии с документацией
 
 ![Desktop Screenshot 2024 11 05 - 11 18 40 89](https://github.com/user-attachments/assets/d488c79e-037a-46d5-a3bf-a8196dd606ea)
 
