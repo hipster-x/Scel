@@ -102,3 +102,73 @@ https://colab.research.google.com/drive/1i-UAwV851rVhOP3LJ6zvfTDJJMig8LkN?usp=sh
 https://github.com/hipster-x/Scel/blob/main/PR2_sssl.ipynb
 
 </details>
+
+## Отчет по практической работе №3
+
+<details>
+  <summary>Нажмите, чтобы развернуть</summary>
+
+В данной практике я выбрал готовый вариант Wazuh Server
+
+![Desktop Screenshot 2024 10 23 - 17 40 34 02](https://github.com/user-attachments/assets/2a02955f-8879-45e6-a3b7-6c44bfc639c3)
+
+![Desktop Screenshot 2024 10 23 - 18 31 45 29](https://github.com/user-attachments/assets/b48dad7f-b686-405f-933b-23cc85298f4a)
+
+Авторизация
+
+![Desktop Screenshot 2024 10 23 - 18 32 10 64](https://github.com/user-attachments/assets/2a580f71-b37a-4aa9-b3b3-aa1e1936bba0)
+
+Веб-интерфейс Wazuh
+
+![Desktop Screenshot 2024 10 23 - 18 33 11 25](https://github.com/user-attachments/assets/6098b1cd-da2c-439b-b61a-529939eee464)
+
+Теперь готовимся установить агент на другой ВМ
+
+![Desktop Screenshot 2024 10 23 - 18 47 30 13](https://github.com/user-attachments/assets/33a10e40-7ef4-4efd-a41d-3e66535658ab)
+
+![Desktop Screenshot 2024 10 23 - 18 57 29 49](https://github.com/user-attachments/assets/f0453f67-ddec-44ea-9b30-a75946da6757)
+
+Разворачиваем агент на второй ВМ
+
+![Desktop Screenshot 2024 10 23 - 20 30 44 32](https://github.com/user-attachments/assets/170e2e6f-0370-47a7-8945-8c67471857eb)
+
+![Desktop Screenshot 2024 10 23 - 20 31 03 94](https://github.com/user-attachments/assets/c2517fa5-8087-4ca0-b3e3-12db90638c26)
+
+После настройки убедились, что агент настроен. И доступна машина для мониторинга
+
+![Desktop Screenshot 2024 10 23 - 20 31 51 17](https://github.com/user-attachments/assets/6b4c060b-4765-46f4-9e9b-56a8b6cc5c73)
+
+![Desktop Screenshot 2024 10 23 - 20 31 59 68](https://github.com/user-attachments/assets/8e4696c6-c362-4193-90d6-abee60090a49)
+
+Система имеет встроенный детектор уязвимостей
+
+![Desktop Screenshot 2024 10 23 - 20 39 34 80](https://github.com/user-attachments/assets/26648dab-eff5-4006-b30e-a5545b1fbe06)
+
+![Desktop Screenshot 2024 10 23 - 20 42 56 21](https://github.com/user-attachments/assets/3a3a7fd0-2278-45c5-b29b-48b9925d7f23)
+
+![Desktop Screenshot 2024 10 23 - 20 48 44 38](https://github.com/user-attachments/assets/7ce77388-d981-495e-9ba6-c52b4e08819c)
+
+![Desktop Screenshot 2024 10 23 - 20 49 01 80](https://github.com/user-attachments/assets/3e62f660-90f6-4534-b069-b87615dbe18b)
+
+![Desktop Screenshot 2024 10 23 - 20 49 09 98](https://github.com/user-attachments/assets/731fc465-0a4c-4fdd-bca2-c175e822da71)
+
+Создание проверки целостности файлов
+
+![Desktop Screenshot 2024 11 05 - 11 05 31 89](https://github.com/user-attachments/assets/c2eff684-47ca-40ef-a731-241c28e33292)
+
+Настройка выявлений уязвимостей в соответсвии с документацией
+
+![Desktop Screenshot 2024 11 05 - 11 18 40 89](https://github.com/user-attachments/assets/d488c79e-037a-46d5-a3bf-a8196dd606ea)
+
+Выявление скрытых процессов
+
+![Desktop Screenshot 2024 11 05 - 11 11 38 20](https://github.com/user-attachments/assets/f145f3f0-b26f-456d-bcc6-c1a903d6506d)
+
+Выявление SQL-инъекций
+
+![Desktop Screenshot 2024 11 05 - 11 20 39 56](https://github.com/user-attachments/assets/5e9046b5-b2d2-49c3-b5ba-329dace39e7f)
+
+Проверка работы настроенных механизмов
+
+
+  </details>
