@@ -172,6 +172,9 @@ https://github.com/hipster-x/Scel/blob/main/PR2_sssl.ipynb
 
 SQL injection
 
-![Desktop Screenshot 2024 11 05 - 21 59 22 15](https://github.com/user-attachments/assets/6a2871de-a09f-4951-b0ef-1a2ccc75933e)
+![Desktop Screenshot 2024 11 06 - 16 50 47 21](https://github.com/user-attachments/assets/27110d12-4c05-4296-afee-5283a82e5d9e)
+
+![Desktop Screenshot 2024 11 06 - 16 51 13 52](https://github.com/user-attachments/assets/6db803d1-50cc-47aa-9626-1971751e46dc)
+
 
   </details>
