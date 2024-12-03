@@ -351,7 +351,7 @@ DGA (Domain Generation Algorithm)
 ## Отчет по практической работе №5
 
 <details>
-  <summary>Нажмите, чтобы развернуть</summary>.
+  <summary>Нажмите, чтобы развернуть</summary>
 
 ## Стенд
 
