@@ -86,7 +86,8 @@
 
 На данном этапе я словил критическую ошибку на агенте и не смог работать на нем, поэтому пришлось преустановить на другую ВМ (далее ip `192.168.43.182`)
 
-![Desktop Screenshot 2024 12 03 - 15 24 01 69](https://github.com/user-attachments/assets/f90ce8cd-3814-4cb0-bf1f-e994dd77f4b9)
+![Desktop Screenshot 2024 12 03 - 15 26 05 54](https://github.com/user-attachments/assets/08192e82-287a-4d79-acfc-8c8d622938cb)
+
 
 Запуск действий на агенте 
 
